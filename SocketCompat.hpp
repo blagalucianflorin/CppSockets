@@ -30,6 +30,7 @@ static const int SOCKET_ERROR   = -1;
 #endif
 
 #include <stdio.h>
+#include <cstdint>
 
 class Socket {
 
